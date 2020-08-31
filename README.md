@@ -1,0 +1,1 @@
+"# VanillaJS-Typing-Speed-Test" 
